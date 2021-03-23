@@ -8,6 +8,7 @@ body {
 .container {
   border: 2px blue dashed;
   width: 700px;
+  min-width: 700px;
   height: px;
   margin-top: 50px;
   display: flex;
